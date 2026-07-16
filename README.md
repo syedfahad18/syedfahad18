@@ -89,10 +89,6 @@
   />
 </p> -->
 
-
-
-### 📊 GitHub Analytics
-
 <p align="center">
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=syedfahad18&theme=github_dark" />
 
@@ -104,6 +100,7 @@
 
   <img width="49%" src="https://streak-stats.demolab.com?user=syedfahad18&theme=github-dark-blue&hide_border=true" />
 </p>
+
 ---
 
 ### 📈 Contribution Graph
@@ -111,8 +108,11 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=syedfahad18&theme=react-dark&hide_border=true&color=00ADB5&line=00ADB5&point=ffffff" alt="Contribution Graph" width="90%"/>
 </p>
+
+
 ---
-## 📫 Contact Me
+
+###📫 Contact Me
 
 <p align="center">
 
@@ -125,6 +125,7 @@
 </a>
 
 </p>
+
 ---
 
 <div align="center">
