@@ -60,8 +60,13 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=syedfahad18&show_icons=true&theme=transparent&hide_border=true&title_color=00ADB5&icon_color=00ADB5&text_color=ffffff" alt="syedfahad18's GitHub stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedfahad18&layout=compact&theme=transparent&hide_border=true&title_color=00ADB5&text_color=ffffff" alt="Top Languages" width="48%"/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=syedfahad18&show_icons=true&theme=transparent&hide_border=true&title_color=00ADB5&icon_color=00ADB5&text_color=ffffff" alt="syedfahad18's GitHub stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedfahad18&layout=compact&theme=transparent&hide_border=true&title_color=00ADB5&text_color=ffffff" alt="Top Languages" width="48%"/> -->
+  <p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=syedfahad18&show_icons=true&theme=transparent&hide_border=true&title_color=00ADB5&icon_color=00ADB5&text_color=ffffff" width="48%"/>
+
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=syedfahad18&layout=compact&theme=transparent&hide_border=true&title_color=00ADB5&text_color=ffffff" width="48%"/>
+</p>
 </p>
 
 <p align="center">
