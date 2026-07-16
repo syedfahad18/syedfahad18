@@ -62,13 +62,22 @@
 <p align="center">
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=syedfahad18&show_icons=true&theme=transparent&hide_border=true&title_color=00ADB5&icon_color=00ADB5&text_color=ffffff" alt="syedfahad18's GitHub stats" width="48%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedfahad18&layout=compact&theme=transparent&hide_border=true&title_color=00ADB5&text_color=ffffff" alt="Top Languages" width="48%"/> -->
-  <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=syedfahad18&show_icons=true&theme=transparent&hide_border=true&title_color=00ADB5&icon_color=00ADB5&text_color=ffffff" width="48%"/>
-
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=syedfahad18&layout=compact&theme=transparent&hide_border=true&title_color=00ADB5&text_color=ffffff" width="48%"/>
 </p>
-</p>
+<!-- --------------------- -->
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=syedfahad18&show_icons=true&theme=transparent&hide_border=true&border_radius=15&title_color=00ADB5&icon_color=00ADB5&text_color=FFFFFF&rank_icon=github"
+    width="49%"
+    alt="GitHub Stats"
+  />
 
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedfahad18&layout=compact&theme=transparent&hide_border=true&border_radius=15&title_color=00ADB5&text_color=FFFFFF"
+    width="49%"
+    alt="Top Languages"
+  />
+</p>
+<!-- --------------------------- -->
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=syedfahad18&theme=transparent&hide_border=true&stroke=00ADB5&ring=00ADB5&fire=00ADB5&currStreakLabel=00ADB5" alt="GitHub Streak"/>
 </p>
