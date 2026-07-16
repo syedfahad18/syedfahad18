@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00ADB5&height=200&section=header&text=Syed%20Fahad&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Developer%20%7C%20Builder%20%7C%20Problem%20Solver&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00ADB5&height=200&section=header&text=FAHAD%20ALI&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Developer%20%7C%20Builder%20%7C%20Problem%20Solver&descAlignY=55&descSize=18" width="100%"/>
 
 </div>
 
@@ -111,7 +111,20 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=syedfahad18&theme=react-dark&hide_border=true&color=00ADB5&line=00ADB5&point=ffffff" alt="Contribution Graph" width="90%"/>
 </p>
+---
+## 📫 Contact Me
 
+<p align="center">
+
+<a href="mailto:syedfahad8976@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<a href="https://wa.me/923154080807">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+</a>
+
+</p>
 ---
 
 <div align="center">
