@@ -20,7 +20,7 @@
 
 - 🔭 Currently working on projects that sharpen my full-stack skills
 - 🌱 Always learning new tools, frameworks, and best practices
-- 💬 Ask me about JavaScript, Python, or general dev workflows
+- 💬 Ask me about JavaScript, CSS, HTML or general dev workflows
 - ⚡ Fun fact: I like turning ideas into working code
 
 ---
@@ -105,8 +105,11 @@
 
 ### 📈 Contribution Graph
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=syedfahad18&theme=react-dark&hide_border=true&color=00ADB5&line=00ADB5&point=ffffff" alt="Contribution Graph" width="90%"/>
+</p> -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=syedfahad18&theme=github_dark" width="100%" />
 </p>
 
 
