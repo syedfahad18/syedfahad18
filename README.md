@@ -29,6 +29,9 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-00ADB5?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"/>
+  <a href="https://fahadhtmllearning.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
+</a>
   <img src="https://img.shields.io/badge/Python-00ADB5?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/HTML5-00ADB5?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-00ADB5?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
