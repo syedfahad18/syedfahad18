@@ -68,7 +68,7 @@
 </p> -->
 
 
-<p align="center">
+<!-- <p align="center">
   <img
     src="https://github-readme-stats-sigma-five.vercel.app/api?username=syedfahad18&show_icons=true&theme=transparent&hide_border=true&title_color=00ADB5&icon_color=00ADB5&text_color=ffffff"
     alt="GitHub Stats"
@@ -87,8 +87,32 @@
     src="https://streak-stats.demolab.com?user=syedfahad18&theme=transparent&hide_border=true&ring=00ADB5&fire=00ADB5&currStreakLabel=00ADB5&stroke=00ADB5"
     alt="GitHub Streak"
   />
+</p> -->
+
+
+
+
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=syedfahad18&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&hide_border=true&border_radius=12"
+    width="49%"
+    alt="Fahad Ali's GitHub Stats"
+  />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedfahad18&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=12"
+    width="49%"
+    alt="Most Used Languages"
+  />
 </p>
 
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=syedfahad18&theme=tokyonight&hide_border=true&border_radius=12"
+    alt="GitHub Streak"
+  />
+</p>
 ---
 
 ### 📈 Contribution Graph
