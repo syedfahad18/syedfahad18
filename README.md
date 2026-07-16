@@ -28,20 +28,31 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
+  <!-- PORTFOLIO -->
+  <a href="https://fahadaliportfolio.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+</a>
+  <!-- HTML -->
   <a href="https://fahadhtmllearning.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
 </a>
+  <!-- CSS -->
   <a href="https://fahadcssnotes.vercel.app/">
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
 </a>
+  <!-- JS -->
    <img src="https://img.shields.io/badge/JavaScript-00ADB5?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Python-00ADB5?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <!-- GITHUB -->
+  <a href="https://github.com/syedfahad18">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+  <!-- <img src="https://img.shields.io/badge/Python-00ADB5?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/HTML5-00ADB5?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-00ADB5?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
   <img src="https://img.shields.io/badge/Node.js-00ADB5?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/React-00ADB5?style=for-the-badge&logo=react&logoColor=white" alt="React"/>
   <img src="https://img.shields.io/badge/Git-00ADB5?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-00ADB5?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-00ADB5?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> -->
 </p>
 
 ---
