@@ -59,12 +59,34 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=syedfahad18&show_icons=true&theme=transparent&hide_border=true&title_color=00ADB5&icon_color=00ADB5&text_color=ffffff" alt="syedfahad18's GitHub stats" width="48%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedfahad18&layout=compact&theme=transparent&hide_border=true&title_color=00ADB5&text_color=ffffff" alt="Top Languages" width="48%"/>
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=syedfahad18&theme=transparent&hide_border=true&stroke=00ADB5&ring=00ADB5&fire=00ADB5&currStreakLabel=00ADB5" alt="GitHub Streak"/>
+</p> -->
+
+
+<p align="center">
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=syedfahad18&show_icons=true&theme=transparent&hide_border=true&title_color=00ADB5&icon_color=00ADB5&text_color=ffffff"
+    alt="GitHub Stats"
+    width="48%"
+  />
+
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=syedfahad18&layout=compact&theme=transparent&hide_border=true&title_color=00ADB5&text_color=ffffff"
+    alt="Top Languages"
+    width="48%"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=syedfahad18&theme=transparent&hide_border=true&ring=00ADB5&fire=00ADB5&currStreakLabel=00ADB5&stroke=00ADB5"
+    alt="GitHub Streak"
+  />
 </p>
 
 ---
