@@ -91,27 +91,18 @@
 
 
 
-
+### 📊 GitHub Analytics
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=syedfahad18&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&hide_border=true&border_radius=12"
-    width="49%"
-    alt="Fahad Ali's GitHub Stats"
-  />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=syedfahad18&theme=github_dark" />
 
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedfahad18&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=12"
-    width="49%"
-    alt="Most Used Languages"
-  />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=syedfahad18&theme=github_dark" />
 </p>
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=syedfahad18&theme=tokyonight&hide_border=true&border_radius=12"
-    alt="GitHub Streak"
-  />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=syedfahad18&theme=github_dark" />
+
+  <img width="49%" src="https://streak-stats.demolab.com?user=syedfahad18&theme=github-dark-blue&hide_border=true" />
 </p>
 ---
 
