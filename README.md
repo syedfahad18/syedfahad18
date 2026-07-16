@@ -46,49 +46,11 @@
   <a href="https://github.com/syedfahad18">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-  <!-- <img src="https://img.shields.io/badge/Python-00ADB5?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/HTML5-00ADB5?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-00ADB5?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/Node.js-00ADB5?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/React-00ADB5?style=for-the-badge&logo=react&logoColor=white" alt="React"/>
-  <img src="https://img.shields.io/badge/Git-00ADB5?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-00ADB5?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> -->
 </p>
 
 ---
 
 ### 📊 GitHub Stats
-
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=syedfahad18&show_icons=true&theme=transparent&hide_border=true&title_color=00ADB5&icon_color=00ADB5&text_color=ffffff" alt="syedfahad18's GitHub stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedfahad18&layout=compact&theme=transparent&hide_border=true&title_color=00ADB5&text_color=ffffff" alt="Top Languages" width="48%"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=syedfahad18&theme=transparent&hide_border=true&stroke=00ADB5&ring=00ADB5&fire=00ADB5&currStreakLabel=00ADB5" alt="GitHub Streak"/>
-</p> -->
-
-
-<!-- <p align="center">
-  <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=syedfahad18&show_icons=true&theme=transparent&hide_border=true&title_color=00ADB5&icon_color=00ADB5&text_color=ffffff"
-    alt="GitHub Stats"
-    width="48%"
-  />
-
-  <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=syedfahad18&layout=compact&theme=transparent&hide_border=true&title_color=00ADB5&text_color=ffffff"
-    alt="Top Languages"
-    width="48%"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=syedfahad18&theme=transparent&hide_border=true&ring=00ADB5&fire=00ADB5&currStreakLabel=00ADB5&stroke=00ADB5"
-    alt="GitHub Streak"
-  />
-</p> -->
-
 <p align="center">
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=syedfahad18&theme=github_dark" />
 
@@ -104,10 +66,6 @@
 ---
 
 ### 📈 Contribution Graph
-
-<!-- <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=syedfahad18&theme=react-dark&hide_border=true&color=00ADB5&line=00ADB5&point=ffffff" alt="Contribution Graph" width="90%"/>
-</p> -->
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=syedfahad18&theme=github_dark" width="100%" />
 </p>
