@@ -1,26 +1,27 @@
 <!--
   ============================================================
-  PROFESSIONAL GITHUB PROFILE README
+  PROFESSIONAL GITHUB PROFILE README — WITH 3D ANIMATED NAME
   ============================================================
-  Replace every placeholder marked with <> before publishing:
-    <YOUR_USERNAME>   → your GitHub username (e.g. octocat)
-    <YOUR_NAME>       → your full name
-    <YOUR_TITLE>      → your professional title
-    <YOUR_LINKEDIN>   → LinkedIn profile URL
-    <YOUR_PORTFOLIO>  → portfolio site URL
-    <YOUR_EMAIL>      → contact email
-    <YOUR_TWITTER>    → Twitter / X handle
-    <REPO_1>, <REPO_2>, <REPO_3> → your repository names
-  All GitHub stats pull live data from public APIs
-  (github-readme-stats, streak-stats, github-profile-trophy,
-  activity-graph) — nothing is hardcoded, so figures update
-  automatically as your account changes.
+  SETUP FOR THE 3D NAME (one-time, required):
+    1. In your profile repo (must be named exactly <YOUR_USERNAME>),
+       create a folder called "assets".
+    2. Add the file "name-3d.svg" (provided alongside this README)
+       into that assets folder.
+    3. Open name-3d.svg and replace "YOUR NAME" (appears 8 times)
+       with your actual name.
+    4. Commit both files. GitHub will render the SVG directly from
+       your repo, animation included — no external hosting needed.
+
+  Replace every other placeholder marked with <> before publishing:
+    <YOUR_USERNAME>, <YOUR_TITLE>, <YOUR_LINKEDIN>, <YOUR_PORTFOLIO>,
+    <YOUR_EMAIL>, <YOUR_TWITTER>, <REPO_1>, <REPO_2>, <REPO_3>
   ============================================================
 -->
 
 <div align="center">
 
-# <YOUR_NAME>
+<!-- 3D Animated Name Banner -->
+<img src="assets/name-3d.svg" alt="Name" width="600"/>
 
 ### <YOUR_TITLE>
 
