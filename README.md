@@ -22,6 +22,58 @@
 
 <!-- 3D Animated Name Banner -->
 <img src="assets/name-3d.svg" alt="Name" width="600"/>
+<svg viewBox="0 0 900 260" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="faceGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00F5FF"/>
+      <stop offset="50%" stop-color="#8A2BE2"/>
+      <stop offset="100%" stop-color="#00FFC6"/>
+    </linearGradient>
+    <linearGradient id="depthGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#1E1B4B"/>
+      <stop offset="100%" stop-color="#0F172A"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- transparent background -->
+  <rect width="900" height="260" fill="none"/>
+
+  <!-- animated 3D group: perspective illusion via skew + scale oscillation -->
+  <g transform-origin="450 130">
+    <animateTransform
+      attributeName="transform"
+      type="skewX"
+      values="-6;6;-6"
+      dur="4s"
+      repeatCount="indefinite"/>
+
+    <!-- extrusion layers (depth), offset diagonally, darkest at back -->
+    <g font-family="Arial Black, Arial, sans-serif" font-weight="900" font-size="90" text-anchor="middle">
+      <text x="466" y="166" fill="url(#depthGrad)">YOUR NAME</text>
+      <text x="463" y="163" fill="#181433">YOUR NAME</text>
+      <text x="460" y="160" fill="#1E1B4B">YOUR NAME</text>
+      <text x="457" y="157" fill="#241E5E">YOUR NAME</text>
+      <text x="454" y="154" fill="#2A2270">YOUR NAME</text>
+      <text x="451" y="151" fill="#312782">YOUR NAME</text>
+      <text x="448" y="148" fill="#372C94">YOUR NAME</text>
+
+      <!-- front face with gradient + glow, breathing scale for extra depth cue -->
+      <g filter="url(#glow)">
+        <text x="445" y="145" fill="url(#faceGrad)" stroke="#0F172A" stroke-width="1.5">
+          YOUR NAME
+          <animate attributeName="opacity" values="0.85;1;0.85" dur="2.5s" repeatCount="indefinite"/>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>
 
 ### <YOUR_TITLE>
 
