@@ -1,28 +1,28 @@
 <!--
   ============================================================
-  PROFESSIONAL GITHUB PROFILE README — WITH 3D ANIMATED NAME
+  PROFESSIONAL GITHUB PROFILE README — 3D ANIMATED NAME (INLINE)
   ============================================================
-  SETUP FOR THE 3D NAME (one-time, required):
-    1. In your profile repo (must be named exactly <YOUR_USERNAME>),
-       create a folder called "assets".
-    2. Add the file "name-3d.svg" (provided alongside this README)
-       into that assets folder.
-    3. Open name-3d.svg and replace "YOUR NAME" (appears 8 times)
-       with your actual name.
-    4. Commit both files. GitHub will render the SVG directly from
-       your repo, animation included — no external hosting needed.
+  This is a single self-contained file. The animated 3D name
+  below is raw inline SVG — no separate asset file needed.
+
+  TO CUSTOMIZE THE NAME:
+    Find the <text>YOUR NAME</text> lines inside the <svg> block
+    just below (there are 8 of them) and replace "YOUR NAME" with
+    your actual name in all 8 places.
 
   Replace every other placeholder marked with <> before publishing:
     <YOUR_USERNAME>, <YOUR_TITLE>, <YOUR_LINKEDIN>, <YOUR_PORTFOLIO>,
     <YOUR_EMAIL>, <YOUR_TWITTER>, <REPO_1>, <REPO_2>, <REPO_3>
+
+  This only renders if placed as README.md in a repo named exactly
+  <YOUR_USERNAME>.
   ============================================================
 -->
 
 <div align="center">
 
-<!-- 3D Animated Name Banner -->
-<img src="assets/name-3d.svg" alt="Name" width="600"/>
-<svg viewBox="0 0 900 260" xmlns="http://www.w3.org/2000/svg">
+<!-- ============ 3D Animated Name (inline SVG) ============ -->
+<svg viewBox="0 0 900 260" xmlns="http://www.w3.org/2000/svg" width="600">
   <defs>
     <linearGradient id="faceGrad" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#00F5FF"/>
@@ -41,11 +41,7 @@
       </feMerge>
     </filter>
   </defs>
-
-  <!-- transparent background -->
   <rect width="900" height="260" fill="none"/>
-
-  <!-- animated 3D group: perspective illusion via skew + scale oscillation -->
   <g transform-origin="450 130">
     <animateTransform
       attributeName="transform"
@@ -53,8 +49,6 @@
       values="-6;6;-6"
       dur="4s"
       repeatCount="indefinite"/>
-
-    <!-- extrusion layers (depth), offset diagonally, darkest at back -->
     <g font-family="Arial Black, Arial, sans-serif" font-weight="900" font-size="90" text-anchor="middle">
       <text x="466" y="166" fill="url(#depthGrad)">YOUR NAME</text>
       <text x="463" y="163" fill="#181433">YOUR NAME</text>
@@ -63,8 +57,6 @@
       <text x="454" y="154" fill="#2A2270">YOUR NAME</text>
       <text x="451" y="151" fill="#312782">YOUR NAME</text>
       <text x="448" y="148" fill="#372C94">YOUR NAME</text>
-
-      <!-- front face with gradient + glow, breathing scale for extra depth cue -->
       <g filter="url(#glow)">
         <text x="445" y="145" fill="url(#faceGrad)" stroke="#0F172A" stroke-width="1.5">
           YOUR NAME
