@@ -50,13 +50,13 @@
       dur="4s"
       repeatCount="indefinite"/>
     <g font-family="Arial Black, Arial, sans-serif" font-weight="900" font-size="90" text-anchor="middle">
-      <text x="466" y="166" fill="url(#depthGrad)">YOUR NAME</text>
-      <text x="463" y="163" fill="#181433">YOUR NAME</text>
-      <text x="460" y="160" fill="#1E1B4B">YOUR NAME</text>
-      <text x="457" y="157" fill="#241E5E">YOUR NAME</text>
-      <text x="454" y="154" fill="#2A2270">YOUR NAME</text>
-      <text x="451" y="151" fill="#312782">YOUR NAME</text>
-      <text x="448" y="148" fill="#372C94">YOUR NAME</text>
+      <text x="466" y="166" fill="url(#depthGrad)">F</text>
+      <text x="463" y="163" fill="#181433">A</text>
+      <text x="460" y="160" fill="#1E1B4B">H</text>
+      <text x="457" y="157" fill="#241E5E">A</text>
+      <text x="454" y="154" fill="#2A2270">D</text>
+      <text x="451" y="151" fill="#312782">AL</text>
+      <text x="448" y="148" fill="#372C94">I</text>
       <g filter="url(#glow)">
         <text x="445" y="145" fill="url(#faceGrad)" stroke="#0F172A" stroke-width="1.5">
           YOUR NAME
