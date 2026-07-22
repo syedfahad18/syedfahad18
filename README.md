@@ -1,320 +1,496 @@
-<!--
-  ============================================================
-  ULTRA-PREMIUM GITHUB PROFILE README
-  Style: Apple x Tesla x Cyberpunk 2077 x JARVIS
-  ============================================================
-  SINGLE FILE — everything (including the animated hologram name)
-  is inline. Nothing else to upload.
-
-  TO CUSTOMIZE THE NAME:
-    Inside the <svg> block right below "HERO SECTION", find the
-    7 occurrences of the word NAME and replace them with your
-    actual name (keep it short — 1–2 words reads best at this size).
-
-  Replace every other placeholder marked with <> before publishing:
-    <YOUR_USERNAME>, <YOUR_TITLE>, <YOUR_LINKEDIN>, <YOUR_PORTFOLIO>,
-    <YOUR_EMAIL>, <YOUR_INSTAGRAM>, <YOUR_WHATSAPP>,
-    <REPO_1>, <REPO_2>, <REPO_3>
-
-  This only renders when placed as README.md in a repo named
-  exactly <YOUR_USERNAME>. All stats/graphs pull live from public
-  GitHub APIs — nothing is hardcoded, so figures update on their
-  own as your account changes.
-  ============================================================
--->
-
-<!-- ================= HERO SECTION ================= -->
+<!-- ========================================================= -->
+<!--                 🚀 FUTURISTIC GITHUB PROFILE README        -->
+<!--                Designed for: Syed Fahad Ali               -->
+<!--                    GitHub: syedfahad18                   -->
+<!-- ========================================================= -->
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100%">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:00F5FF,30:00C6FF,60:7B2FF7,100:000000&text=FAHAD%20ALI&fontSize=70&fontAlignY=40&animation=fadeIn&fontColor=ffffff&desc=Software%20Engineer%20%7C%20Frontend%20Developer%20%7C%20Future%20Full%20Stack&descAlignY=62"/>
 
-<!-- Hologram / metallic / glass 3D animated name (inline SVG, GitHub-safe) -->
-<svg viewBox="0 0 900 300" xmlns="http://www.w3.org/2000/svg" width="640">
-  <defs>
-    <linearGradient id="metal" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#E0F7FF"/>
-      <stop offset="25%" stop-color="#00F5FF"/>
-      <stop offset="50%" stop-color="#8A2BE2"/>
-      <stop offset="75%" stop-color="#00FFC6"/>
-      <stop offset="100%" stop-color="#E0F7FF"/>
-      <animateTransform attributeName="gradientTransform" type="translate"
-        values="-1 0; 1 0; -1 0" dur="5s" repeatCount="indefinite"/>
-    </linearGradient>
-    <linearGradient id="glass" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.15"/>
-      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
-    </linearGradient>
-    <radialGradient id="bgGlow" cx="50%" cy="50%" r="60%">
-      <stop offset="0%" stop-color="#8A2BE2" stop-opacity="0.35"/>
-      <stop offset="100%" stop-color="#0F172A" stop-opacity="0"/>
-    </radialGradient>
-    <filter id="softGlow" x="-60%" y="-60%" width="220%" height="220%">
-      <feGaussianBlur stdDeviation="7" result="blur"/>
-      <feMerge>
-        <feMergeNode in="blur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
-  </defs>
+</div>
 
-  <!-- ambient glow backdrop -->
-  <rect width="900" height="300" fill="url(#bgGlow)"/>
+---
 
-  <!-- drifting particles -->
-  <g fill="#00F5FF">
-    <circle cx="120" cy="230" r="2.5" opacity="0.8">
-      <animate attributeName="cy" values="230;60;230" dur="6s" repeatCount="indefinite"/>
-      <animate attributeName="opacity" values="0;0.9;0" dur="6s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="770" cy="240" r="2" opacity="0.7" fill="#8A2BE2">
-      <animate attributeName="cy" values="240;80;240" dur="7s" repeatCount="indefinite"/>
-      <animate attributeName="opacity" values="0;0.8;0" dur="7s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="450" cy="260" r="2.2" opacity="0.6" fill="#00FFC6">
-      <animate attributeName="cy" values="260;90;260" dur="5.5s" repeatCount="indefinite"/>
-      <animate attributeName="opacity" values="0;0.9;0" dur="5.5s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="250" cy="250" r="1.8" opacity="0.6">
-      <animate attributeName="cy" values="250;100;250" dur="8s" repeatCount="indefinite"/>
-      <animate attributeName="opacity" values="0;0.7;0" dur="8s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="640" cy="220" r="2" opacity="0.6" fill="#8A2BE2">
-      <animate attributeName="cy" values="220;70;220" dur="6.5s" repeatCount="indefinite"/>
-      <animate attributeName="opacity" values="0;0.8;0" dur="6.5s" repeatCount="indefinite"/>
-    </circle>
-  </g>
+<div align="center">
 
-  <!-- glowing horizontal accent lines -->
-  <line x1="150" y1="95" x2="750" y2="95" stroke="#00F5FF" stroke-width="1" opacity="0.4">
-    <animate attributeName="opacity" values="0.15;0.5;0.15" dur="3s" repeatCount="indefinite"/>
-  </line>
-  <line x1="150" y1="205" x2="750" y2="205" stroke="#8A2BE2" stroke-width="1" opacity="0.4">
-    <animate attributeName="opacity" values="0.5;0.15;0.5" dur="3s" repeatCount="indefinite"/>
-  </line>
+# ⚡ 𝐅 𝐀 𝐇 𝐀 𝐃 &nbsp; 𝐀 𝐋 𝐈 ⚡
 
-  <!-- floating name group -->
-  <g>
-    <animateTransform attributeName="transform" type="translate"
-      values="0 0; 0 -8; 0 0" dur="4s" repeatCount="indefinite"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=3500&pause=1000&color=00F5FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=Software+Engineering+Student;Front-End+Developer;JavaScript+Learner;Passionate+about+UI%2FUX;Building+Modern+Responsive+Websites;Future+Full+Stack+Developer"/>
 
-    <!-- soft drop shadow / depth -->
-    <text x="454" y="168" text-anchor="middle" font-family="Arial Black, Arial, sans-serif"
-      font-weight="900" font-size="88" fill="#0F172A" opacity="0.6">NAME</text>
+<br>
 
-    <!-- metallic hologram face -->
-    <g filter="url(#softGlow)">
-      <text x="450" y="163" text-anchor="middle" font-family="Arial Black, Arial, sans-serif"
-        font-weight="900" font-size="88" fill="url(#metal)" stroke="#0F172A" stroke-width="1.2">
-        NAME
-        <animate attributeName="opacity" values="0.9;1;0.9" dur="2.4s" repeatCount="indefinite"/>
-      </text>
-    </g>
+<img src="https://komarev.com/ghpvc/?username=syedfahad18&style=for-the-badge&color=00F5FF"/>
 
-    <!-- glass reflection sweep -->
-    <rect x="150" y="120" width="600" height="50" fill="url(#glass)">
-      <animate attributeName="x" values="-100;900" dur="3.5s" repeatCount="indefinite"/>
-    </rect>
-  </g>
-</svg>
+<img src="https://img.shields.io/github/followers/syedfahad18?style=for-the-badge&logo=github&color=7B2FF7"/>
 
-### <YOUR_TITLE>
+<img src="https://img.shields.io/github/stars/syedfahad18?style=for-the-badge&logo=github&color=00C6FF"/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3200&pause=900&color=00F5FF&center=true&vCenter=true&multiline=true&repeat=true&width=680&lines=Software+Engineering+Student;Front-End+Developer;JavaScript+Learner;Passionate+about+UI%2FUX;Building+Modern+Responsive+Websites;Future+Full+Stack+Developer" alt="Typing SVG" />
+</div>
+
+---
+
+# 🌌 Welcome
+
+```text
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║          Building Modern Interfaces for Tomorrow             ║
+║                                                              ║
+║          Clean • Elegant • Responsive • Premium             ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+---
+
+# ⚡ About Me
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+### 👨‍💻 Developer
+
+- 🎓 Software Engineering Student
+- 💻 Front-End Developer
+- 🌱 Learning JavaScript
+- 🚀 Future Full Stack Developer
+- 🎨 UI / UX Enthusiast
+- 📱 Responsive Design Lover
+
+</td>
+
+<td width="50%">
+
+### 🚀 Current Focus
+
+- ⚡ HTML
+- ⚡ CSS
+- ⚡ JavaScript
+- ⚡ Git & GitHub
+- ⚡ Modern UI
+- ⚡ Portfolio Development
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# ✨ Developer Philosophy
+
+> **"Code is not only meant to work... it should create an unforgettable experience."**
+
+---
+
+# 🌠 Quick Information
+
+| 💡 | Information |
+|-----|-------------|
+| 👤 Name | **Syed Fahad Ali** |
+| 🎓 Degree | Software Engineering |
+| 💻 Role | Front-End Developer |
+| 🌱 Learning | JavaScript |
+| 🎯 Goal | Full Stack Developer |
+| ❤️ Passion | Beautiful UI / UX |
+| 🌍 Country | Pakistan |
+| ⚡ Fun Fact | Turning ideas into elegant web experiences |
+
+---
+
+# 🌌 What I'm Doing
+
+- 🔥 Building responsive websites
+- 🌐 Learning modern JavaScript
+- 🎨 Improving UI/UX skills
+- 📚 Growing every day
+- 🚀 Working toward becoming a Full Stack Developer
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:00F5FF,50:7B2FF7,100:000000"/>
+
+### ⚡ "Dream Big • Build Bigger • Never Stop Learning"
+
+</div>
+
+<!-- ================= END OF PART 1 ================= -->
+
+<!-- ========================================================= -->
+<!--                    PART 2 - TECH STACK                    -->
+<!-- ========================================================= -->
+
+<div align="center">
+
+# 🛠️ Tech Arsenal
+
+*"Crafting modern digital experiences with powerful technologies."*
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00F5FF,50:7B2FF7,100:000000"/>
+
+</div>
+
+---
+
+## 💻 Front-End
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/HTML5-00F5FF?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-7B2FF7?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-00C6FF?style=for-the-badge&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Responsive%20Design-111111?style=for-the-badge&logo=googlechrome&logoColor=00F5FF"/>
+
+</p>
+
+---
+
+## ⚙️ Languages
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+
+</p>
+
+---
+
+## 🧰 Tools
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+
+</p>
+
+---
+
+<div align="center">
+
+# 🚀 Featured Projects
+
+> *Automatically updated from your repositories.*
+
+</div>
+
+<table>
+<tr>
+
+<td width="50%">
+
+<a href="https://github.com/syedfahad18/Portfolio">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=syedfahad18&repo=Portfolio&theme=transparent&hide_border=true"/>
+
 </a>
 
-<br/>
+</td>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
+<td width="50%">
 
-</div>
+<a href="https://github.com/syedfahad18/Todo-App">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=syedfahad18&repo=Todo-App&theme=transparent&hide_border=true"/>
 
-<br/>
-
-<!-- ================= INTRO ================= -->
-
-## ✨ Intro
-
-<div align="center">
-
-| 🎓 | 💻 | 🎨 | 🌐 | 🧩 | 🚀 |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| Software Engineering Student | Front-End Developer | UI/UX Enthusiast | JavaScript Learner | Responsive Web Builder | Future Full Stack Dev |
-
-</div>
-
-<br/>
-
-<!-- ================= ABOUT ME ================= -->
-
-## 🌌 About Me
-
-<table align="center">
-<tr>
-<td align="center" width="180">
-
-**🎓 Education**
-<br/>
-Software Engineering Student
+</a>
 
 </td>
-<td align="center" width="180">
 
-**💻 Learning Now**
-<br/>
-JavaScript & React
-
-</td>
-<td align="center" width="180">
-
-**🌱 Goal**
-<br/>
-Full Stack Developer
-
-</td>
 </tr>
+
 <tr>
-<td align="center" width="180">
 
-**🚀 Interests**
-<br/>
-UI/UX, Performance, Open Source
+<td width="50%">
 
-</td>
-<td align="center" width="180">
+<a href="https://github.com/syedfahad18/Calculator">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=syedfahad18&repo=Calculator&theme=transparent&hide_border=true"/>
 
-**📍 Location**
-<br/>
-Update your location here
+</a>
 
 </td>
-<td align="center" width="180">
 
-**⚡ Fun Fact**
-<br/>
-I debug better with coffee ☕
+<td width="50%">
+
+<!-- Replace this repository name with a real one when you create it -->
+<a href="https://github.com/syedfahad18">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=syedfahad18&repo=YOUR-REPOSITORY&theme=transparent&hide_border=true"/>
+
+</a>
 
 </td>
+
 </tr>
 </table>
 
-<br/>
+---
 
-<!-- ================= TECH STACK ================= -->
+# 🌟 What I Build
 
-## 🛠 Tech Stack
+| 💎 Category | 🚀 Description |
+|-------------|----------------|
+| 🌐 Portfolio Websites | Modern, animated, responsive |
+| 🛒 Business Websites | Fast, clean, professional |
+| 📱 Responsive UI | Mobile-first layouts |
+| 🎂 Creative Projects | Interactive HTML/CSS/JS experiences |
+| ⚡ JavaScript Apps | Dynamic web applications |
+
+---
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/HTML5-0F172A?style=for-the-badge&logo=html5&logoColor=00F5FF"/>
-<img src="https://img.shields.io/badge/CSS3-0F172A?style=for-the-badge&logo=css3&logoColor=00F5FF"/>
-<img src="https://img.shields.io/badge/JavaScript-0F172A?style=for-the-badge&logo=javascript&logoColor=00FFC6"/>
-<img src="https://img.shields.io/badge/React-0F172A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Node.js-0F172A?style=for-the-badge&logo=nodedotjs&logoColor=8A2BE2"/>
-<img src="https://img.shields.io/badge/Express.js-0F172A?style=for-the-badge&logo=express&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/MongoDB-0F172A?style=for-the-badge&logo=mongodb&logoColor=00FFC6"/>
-<br/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8"/>
-<img src="https://img.shields.io/badge/Bootstrap-0F172A?style=for-the-badge&logo=bootstrap&logoColor=8A2BE2"/>
-<img src="https://img.shields.io/badge/Git-0F172A?style=for-the-badge&logo=git&logoColor=F05032"/>
-<img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/VS_Code-0F172A?style=for-the-badge&logo=visualstudiocode&logoColor=00F5FF"/>
-<br/>
-<img src="https://img.shields.io/badge/Figma-0F172A?style=for-the-badge&logo=figma&logoColor=F24E1E"/>
-<img src="https://img.shields.io/badge/Vite-0F172A?style=for-the-badge&logo=vite&logoColor=8A2BE2"/>
-<img src="https://img.shields.io/badge/Vercel-0F172A?style=for-the-badge&logo=vercel&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/Netlify-0F172A?style=for-the-badge&logo=netlify&logoColor=00FFC6"/>
-<img src="https://img.shields.io/badge/REST_API-0F172A?style=for-the-badge&logo=fastapi&logoColor=00F5FF"/>
+## 💡 Current Learning Journey
+
+```text
+HTML  ████████████████████ 100%
+
+CSS   ███████████████████░ 95%
+
+JS    ███████████████░░░░░ 75%
+
+Git   ██████████████████░░ 90%
+```
 
 </div>
 
-<br/>
-
-<!-- ================= FEATURED PROJECTS ================= -->
-
-## 🚀 Featured Projects
+---
 
 <div align="center">
 
-<a href="https://github.com/<YOUR_USERNAME>/<REPO_1>">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=<YOUR_USERNAME>&repo=<REPO_1>&theme=radical&hide_border=true&bg_color=0F172A&title_color=00F5FF&text_color=E5E7EB&icon_color=8A2BE2" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:00F5FF,50:7B2FF7,100:000000"/>
+
+### 🚀 "Every Project is a Step Toward Excellence."
+
+</div>
+
+<!-- ================= END OF PART 2 ================= -->
+
+<!-- ========================================================= -->
+<!--               📊 LIVE GITHUB ANALYTICS                    -->
+<!-- ========================================================= -->
+
+<div align="center">
+
+# 📊 GitHub Analytics
+
+> **Everything below updates automatically as your GitHub profile grows.**
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:00F5FF,50:7B2FF7,100:000000"/>
+
+</div>
+
+---
+
+# ⚡ GitHub Overview
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=syedfahad18&show_icons=true&theme=transparent&hide_border=true&title_color=00F5FF&icon_color=00F5FF&text_color=ffffff&count_private=true&include_all_commits=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedfahad18&layout=compact&theme=transparent&hide_border=true&title_color=7B2FF7&text_color=ffffff"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=syedfahad18&theme=transparent&hide_border=true&ring=00F5FF&fire=7B2FF7&currStreakLabel=00F5FF"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophy Collection
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=syedfahad18&theme=algolia&no-frame=true&no-bg=true&margin-w=15&row=2&column=4"/>
+
+</div>
+
+---
+
+# 📈 Contribution Activity Graph
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=syedfahad18&theme=react-dark&hide_border=true&bg_color=000000&color=00F5FF&line=7B2FF7&point=00F5FF"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+> **After creating the Snake GitHub Action, replace the image below with your generated SVG.**
+
+```md
+<img src="https://raw.githubusercontent.com/syedfahad18/syedfahad18/output/github-contribution-grid-snake-dark.svg"/>
+```
+
+</div>
+
+---
+
+# 📊 Development Summary
+
+<div align="center">
+
+| Metric | Auto Updates |
+|---------|--------------|
+| 📦 Public Repositories | ✅ |
+| ⭐ Total Stars | ✅ (via GitHub Stats) |
+| 🍴 Forks | ✅ |
+| 📝 Commits | ✅ |
+| 🔥 Streak | ✅ |
+| 💻 Languages | ✅ |
+| 🏆 Trophies | ✅ |
+| 📈 Activity | ✅ |
+| 👥 Followers | ✅ |
+| ❤️ Following | ✅ |
+
+</div>
+
+---
+
+# 📌 Profile Metrics
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=syedfahad18&style=for-the-badge&color=00F5FF"/>
+
+<img src="https://img.shields.io/github/followers/syedfahad18?style=for-the-badge&logo=github&label=Followers"/>
+
+<img src="https://img.shields.io/github/forks/syedfahad18/Portfolio?style=for-the-badge&logo=github"/>
+
+</div>
+
+---
+
+# 🌍 Coding Journey
+
+```text
+HTML        ████████████████████
+
+CSS         ███████████████████
+
+JavaScript  ███████████████
+
+Git         █████████████████
+
+GitHub      █████████████████
+
+Learning    ███████████████████████
+```
+
+---
+
+<div align="center">
+
+## 🚀 Keep Building. Keep Learning. Keep Growing.
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:00F5FF,50:7B2FF7,100:000000"/>
+
+</div>
+
+<!-- ================= END OF PART 3 ================= -->
+
+<!-- ========================================================= -->
+<!--                    📬 CONTACT SECTION                     -->
+<!-- ========================================================= -->
+
+<div align="center">
+
+# 📬 Let's Connect
+
+> **Open to collaboration, learning, and exciting opportunities.**
+
+<br>
+
+<a href="https://github.com/syedfahad18">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="https://github.com/<YOUR_USERNAME>/<REPO_2>">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=<YOUR_USERNAME>&repo=<REPO_2>&theme=radical&hide_border=true&bg_color=0F172A&title_color=00F5FF&text_color=E5E7EB&icon_color=8A2BE2" />
-</a>
-<a href="https://github.com/<YOUR_USERNAME>/<REPO_3>">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=<YOUR_USERNAME>&repo=<REPO_3>&theme=radical&hide_border=true&bg_color=0F172A&title_color=00F5FF&text_color=E5E7EB&icon_color=8A2BE2" />
+
+<a href="https://fahadaliportfolio.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-00F5FF?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
+<a href="mailto:your@email.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/yourusername">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/yourusername">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://wa.me/923001234567">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
 </div>
 
-<br/>
-
-<!-- ================= LIVE GITHUB ANALYTICS ================= -->
-
-## 📊 Live GitHub Analytics
+---
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=<YOUR_USERNAME>&show_icons=true&theme=radical&hide_border=true&bg_color=0F172A&title_color=00F5FF&text_color=E5E7EB&icon_color=8A2BE2&count_private=true" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=<YOUR_USERNAME>&layout=compact&theme=radical&hide_border=true&bg_color=0F172A&title_color=00F5FF&text_color=E5E7EB" width="42%"/>
-
-<img src="https://streak-stats.demolab.com/?user=<YOUR_USERNAME>&theme=radical&hide_border=true&background=0F172A&ring=00F5FF&fire=8A2BE2&currStreakLabel=00FFC6" width="70%"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=<YOUR_USERNAME>&theme=react-dark&bg_color=0F172A&color=00F5FF&line=8A2BE2&point=00FFC6&hide_border=true" width="90%"/>
+# 🌟 Current Goals
 
 </div>
 
-**🐍 Contribution Snake**
+| 🎯 Goal | Status |
+|---------|--------|
+| 🚀 Become Full Stack Developer | 🔄 In Progress |
+| ⚡ Master JavaScript | 🔄 Learning |
+| 🎨 Improve UI/UX Skills | 🔄 Ongoing |
+| 🌐 Build Amazing Web Apps | 🔄 Active |
+| 💼 Freelance Projects | 🎯 Growing |
+| 📚 Learn React.js | ⏳ Next Step |
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/<YOUR_USERNAME>/<YOUR_USERNAME>/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</div>
-
-> ⚙️ The snake graphic is generated by a GitHub Action, not a static API. One-time setup: add [`Platane/snk`](https://github.com/Platane/snk) as a workflow in your profile repo (`.github/workflows/snake.yml`) so it commits the SVG to an `output` branch on a schedule. After that it updates automatically with every contribution.
-
-**🏆 Trophies**
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=<YOUR_USERNAME>&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=1"/>
-</div>
+---
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=<YOUR_USERNAME>&label=Profile%20Views&color=8A2BE2&style=for-the-badge"/>
-&nbsp;
-<img src="https://img.shields.io/github/followers/<YOUR_USERNAME>?label=Followers&style=for-the-badge&color=00F5FF"/>
-&nbsp;
-<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/<YOUR_USERNAME>&label=Public%20Repos&query=%24.public_repos&color=00FFC6&style=for-the-badge"/>
+# 💬 Favorite Quote
+
+> **"First, solve the problem. Then, write the code."**  
+> — John Johnson
 
 </div>
 
-<br/>
-
-<!-- ================= CONTACT ================= -->
-
-## 📬 Contact
+---
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=00F5FF)](https://github.com/<YOUR_USERNAME>)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=todoist&logoColor=00FFC6)](https://<YOUR_PORTFOLIO>)
-[![Email](https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=D14836)](mailto:<YOUR_EMAIL>)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://<YOUR_LINKEDIN>)
-[![Instagram](https://img.shields.io/badge/Instagram-0F172A?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://instagram.com/<YOUR_INSTAGRAM>)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-0F172A?style=for-the-badge&logo=whatsapp&logoColor=25D366)](https://wa.me/<YOUR_WHATSAPP>)
+# 🌊 Thanks for Visiting
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:00F5FF,40:00C6FF,70:7B2FF7,100:000000"/>
+
+### ⭐ If you like my work, don't forget to star my repositories!
+
+<img src="https://komarev.com/ghpvc/?username=syedfahad18&style=for-the-badge&color=00F5FF"/>
+
+<br>
+
+**Made with ❤️ by Syed Fahad Ali**
 
 </div>
 
-<br/>
-
-<!-- ================= FOOTER ================= -->
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1F2937,100:8A2BE2&height=140&section=footer"/>
-
-**Thank you for visiting.** Made with ❤️ and a lot of ☕
-
-</div>
+<!-- ========================================================= -->
+<!--                     END OF README                         -->
+<!-- ========================================================= -->
